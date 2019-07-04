@@ -1,0 +1,30 @@
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\marius\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojAssemblyReference.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
